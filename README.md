@@ -1,0 +1,2 @@
+# FKBaseTabBarController
+快速搭建自己的UITabBarController,只需继承本类。可以自定义item的image和选中image和标题和选中的标题以及标题的颜色。
